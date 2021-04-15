@@ -1,6 +1,6 @@
 # sort
 
-A new Flutter project.
+This app sorts words in a given strings into dictionary order i.e lexicographic order.
 
 ## Getting Started
 
